@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.bssys.platf.html5-api:api-adapter:3.3.36.OFB.14">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bssys/platf/html5-api/api-adapter/3.3.36.OFB.14/api-adapter-3.3.36.OFB.14.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bssys/platf/html5-api/api-adapter/3.3.36.OFB.14/api-adapter-3.3.36.OFB.14-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bssys/platf/html5-api/api-adapter/3.3.36.OFB.14/api-adapter-3.3.36.OFB.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
