@@ -25,8 +25,7 @@ public class BookInsertController {
     @Autowired
     BookNameInsertService bookNameInsertService;
 
-    @RequestMapping(value = "/bookInsert", produces = MediaType.APPLICATION_JSON_VALUE, method = RequestMethod.POST)
-    public String Insert(@RequestBody Requestdto path) {
+       public String Insert(@RequestBody Requestdto path) {
         Date date = new Date();
         String strDateFormat = "yyyy-MM-dd HH:mm:ss.SSS";
         DateFormat dateFormat = new SimpleDateFormat(strDateFormat);
